@@ -1,19 +1,4 @@
 <?php
-
-/**
-* FixedBitNotation
-*
-* @author Andre DeMarre
-* @package FixedBitNotation
-*/
-
-/**
-* The FixedBitNotation class is for binary to text conversion. It
-* can handle many encoding schemes, formally defined or not, that
-* use a fixed number of bits to encode each character.
-*
-* @package FixedBitNotation
-*/
 class FixedBitNotation
 {
     protected $_chars;
